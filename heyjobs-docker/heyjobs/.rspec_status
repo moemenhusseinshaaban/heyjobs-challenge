@@ -1,0 +1,7 @@
+example_id                                                    | status | run_time        |
+------------------------------------------------------------- | ------ | --------------- |
+./spec/heyjobs_spec.rb[1:1]                                   | passed | 0.02049 seconds |
+./spec/services/sync_campaign_wth_ad_service_spec.rb[1:1:1:1] | passed | 0.0717 seconds  |
+./spec/services/sync_campaign_wth_ad_service_spec.rb[1:1:1:2] | passed | 0.06499 seconds |
+./spec/services/sync_campaign_wth_ad_service_spec.rb[1:1:2:1] | passed | 0.06994 seconds |
+./spec/services/sync_campaign_wth_ad_service_spec.rb[1:1:2:2] | passed | 0.07876 seconds |

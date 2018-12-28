@@ -1,0 +1,1 @@
+ad_service: "<%= ENV['AD_SERVICE_ENDPOINT'] %>"

@@ -1,0 +1,8 @@
+require "rspec/core/rake_task"
+require_relative 'lib/heyjobs'
+Dir['lib/heyjobs/tasks/*.rb'].each { |f| load f }
+
+
+RSpec::Core::RakeTask.new(:spec)
+
+task default: :spec
